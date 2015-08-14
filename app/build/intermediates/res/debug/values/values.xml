@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Dino10/Desktop/android/test_code/CriminalIntent/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="viewPager" type="id"/>
+    <!-- From: file:/Users/Dino10/Desktop/android/test_code/CriminalIntent/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved?</string>
+    <string name="crime_title_hint">Enter a title for this crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crimes_title">Crimes</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="delete_crime">Delete</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="subtitle">Sometimes tolerance is not a virtue.</string>
+    <string name="take">사진찍기!</string>
+    <!-- From: file:/Users/Dino10/Desktop/android/test_code/CriminalIntent/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
